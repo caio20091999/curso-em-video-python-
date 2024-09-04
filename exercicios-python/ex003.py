@@ -1,3 +1,6 @@
+import sys
+
+
 opcao = int(input("informe uma opção: [1] sacar \n[2] Extrato: "))
 
 if opcao == 1:
